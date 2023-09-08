@@ -10,12 +10,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silas-Gomes-Qa&layout=compact&hide_border=true&title_color=FFFAFA&text_color=FFFAFA&bg_color=0d1117" />
 </div>
 
-
- ### Contatos:
-<div align=""> 
-<a href = "mailto:silasleandrogomes@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=FF0000" target="_blank"></a>
-<a href="https://www.linkedin.com/in/silas-leandro-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
  
  ### Tecnologias que Utilizo no dia a dia:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30"/>![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java-original&labelColor=0D1117)&nbsp;
@@ -29,11 +23,13 @@
 ![RobotFramework](https://img.shields.io/badge/-Robotframework-0D1117?style=for-the-badge&logo=robotframework&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Capybara](https://img.shields.io/badge/-Capybara-0D1117?style=for-the-badge&logo=capybara&labelColor=0D1117)&nbsp;
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Silas-Gomes-Qa}/count.svg" /></p> 
-<br>
-</div>
+ ### Contatos:
+<div align=""> 
+<a href = "mailto:silasleandrogomes@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=FF0000" target="_blank"></a>
+<a href="https://www.linkedin.com/in/silas-leandro-gomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
